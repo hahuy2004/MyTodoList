@@ -77,12 +77,6 @@
 
 ### b. If you integrate AI APIs more for your app, what would you do?
 - Use AI for task prioritization and scheduling optimization.
-- Add natural language input, so users can create tasks by typing or speaking casually (e.g., “Remind me to call John tomorrow at 3 PM”).
+- Add natural language input, so users can create tasks by typing or speaking casually (e.g., "Remind me to call John tomorrow at 3 PM").
 - Implement AI-based productivity insights, suggesting when to focus on which tasks based on user behavior.
 - Provide summarization of weekly tasks using AI.
-
-
-## ✅ Checklist
-- [x] Code runs without errors  
-- [x] All required features implemented (add/edit/delete/complete tasks)  
-- [x] All ✍️ sections are filled  
