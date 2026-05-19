@@ -1,4 +1,4 @@
-# To-Do List – Preliminary Assignment Submission
+# To-Do List - Multi-View Task Management System with AI Assistant
 
 ## 🚀 Project Setup & Usage
 **How to install and run your project:**  
