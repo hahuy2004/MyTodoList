@@ -10,12 +10,6 @@
 ✍️ Link Website: https://student-todolist.onrender.com/
 
 ## 🎥 Demo Video
-**Demo video link (≤ 2 minutes):**  
-📌 **Video Upload Guideline:** when uploading your demo video to YouTube, please set the visibility to **Unlisted**.  
-- “Unlisted” videos can only be viewed by users who have the link.  
-- The video will not appear in search results or on your channel.  
-- Share the link in your README so mentors can access it.  
-
 ✍️ Link Youtube: https://youtu.be/oh8Mn_7EzcU?si=G9TA45D5iQNMdhCj
 
 
